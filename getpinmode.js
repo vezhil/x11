@@ -16,6 +16,6 @@ for (i=1;i<=46;i++){
 }
 
 function printStat(x){
-    fs.appendFile('pins.txt','Name '+x.name+', Pin '+x.pin+": "+x.mux+" \nOptions: "+x.options+"\n",function(err){if (err) throw err;})
+    fs.appendFile('pins.txt','Name '+x.name+', Pin '+x.pin+", MUX: "+x.mux+" \nOptions: "+x.options+"\n",function(err){if (err) throw err;})
 }
 
