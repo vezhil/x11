@@ -1,184 +1,184 @@
-Mux of P8_1: undefined 
+Name DGND, Pin P8_1: undefined 
 Options: undefined
-Mux of P8_2: undefined 
+Name DGND, Pin P8_2: undefined 
 Options: undefined
-Mux of P8_3: 1 
+Name GPIO1_6, Pin P8_3: 1 
 Options: gpmc_ad6,mmc1_dat6,NA,NA,NA,NA,NA,gpio1_6
-Mux of P8_4: 1 
+Name GPIO1_7, Pin P8_4: 1 
 Options: gpmc_ad7,mmc1_dat7,NA,NA,NA,NA,NA,gpio1_7
-Mux of P8_5: 1 
+Name GPIO1_2, Pin P8_5: 1 
 Options: gpmc_ad2,mmc1_dat2,NA,NA,NA,NA,NA,gpio1_2
-Mux of P8_6: 1 
+Name GPIO1_3, Pin P8_6: 1 
 Options: gpmc_ad3,mmc1_dat3,NA,NA,NA,NA,NA,gpio1_3
-Mux of P8_7: 7 
+Name TIMER4, Pin P8_7: 7 
 Options: gpmc_advn_ale,NA,NA,NA,NA,NA,NA,mmc1_sdcd
-Mux of P8_8: 7 
+Name TIMER7, Pin P8_8: 7 
 Options: gpmc_oen_ren,NA,NA,NA,NA,NA,NA,gpio2_3
-Mux of P8_9: 7 
+Name TIMER5, Pin P8_9: 7 
 Options: gpmc_ben0_cle,NA,NA,NA,NA,NA,NA,gpio2_5
-Mux of P8_10: 7 
+Name TIMER6, Pin P8_10: 7 
 Options: gpmc_wen,NA,NA,NA,NA,NA,NA,gpio2_4
-Mux of P8_11: 7 
+Name GPIO1_13, Pin P8_11: 7 
 Options: gpmc_ad13,lcd_data18,mmc1_dat5,mmc2_dat1,eqep2B_in,pr1_mii0_txd,pr1_pru0_pru_r30_15,gpio1_13
-Mux of P8_12: 7 
+Name GPIO1_12, Pin P8_12: 7 
 Options: gpmc_ad12,lcd_data19,mmc1_dat4,mmc2_dat0,eqep2a_in,pr1_mii0_txd2,pr1_pru0_pru_r30_14,gpio1_12
-Mux of P8_13: 7 
+Name EHRPWM2B, Pin P8_13: 7 
 Options: gpmc_ad9,lcd_data22,mmc1_dat1,mmc2_dat5,ehrpwm2B,pr1_mii0_col,NA,gpio0_23
-Mux of P8_14: 7 
+Name GPIO0_26, Pin P8_14: 7 
 Options: gpmc_ad10,lcd_data21,mmc1_dat2,mmc2_dat6,ehrpwm2_tripzone_input,pr1_mii0_txen,NA,gpio0_26
-Mux of P8_15: 7 
+Name GPIO1_15, Pin P8_15: 7 
 Options: gpmc_ad15,lcd_data16,mmc1_dat7,mmc2_dat3,eqep2_strobe,pr1_ecap0_ecap_capin_apwm_o,pr1_pru0_pru_r31_15,gpio1_15
-Mux of P8_16: 7 
+Name GPIO1_14, Pin P8_16: 7 
 Options: gpmc_ad14,lcd_data17,mmc1_dat6,mmc2_dat2,eqep2_index,pr1_mii0_txd0,pr1_pru0_pru_r31_14,gpio1_14
-Mux of P8_17: 7 
+Name GPIO0_27, Pin P8_17: 7 
 Options: gpmc_ad11,lcd_data20,mmc1_dat3,mmc2_dat7,ehrpwm0_synco,pr1_mii0_txd3,NA,gpio0_27
-Mux of P8_18: 7 
+Name GPIO2_1, Pin P8_18: 7 
 Options: gpmc_clk,lcd_memory_clk_mux,NA,mmc2_clk,NA,NA,mcasp0_fsr,gpio2_1
-Mux of P8_19: 7 
+Name EHRPWM2A, Pin P8_19: 7 
 Options: gpmc_ad8,lcd_data23,mmc1_dat0,mmc2_dat4,ehrpwm2A,pr1_mii_mt0_clk,NA,gpio0_22
-Mux of P8_20: 2 
+Name GPIO1_31, Pin P8_20: 2 
 Options: gpmc_csn2,gpmc_be1n,mmc1_cmd,pr1_edio_data_in7,pr1_edio_data_out7,pr1_pru1_pru_r30_13,pr1_pru1_pru_r31_13,gpio1_31
-Mux of P8_21: 2 
+Name GPIO1_30, Pin P8_21: 2 
 Options: gpmc_csn1,gpmc_clk,mmc1_clk,pr1_edio_data_in6,pr1_edio_data_out6,pr1_pru1_pru_r30_12,pr1_pru1_pru_r31_12,gpio1_30
-Mux of P8_22: 1 
+Name GPIO1_5, Pin P8_22: 1 
 Options: gpmc_ad5,mmc1_dat5,NA,NA,NA,NA,NA,gpio1_5
-Mux of P8_23: 1 
+Name GPIO1_4, Pin P8_23: 1 
 Options: gpmc_ad4,mmc1_dat4,NA,NA,NA,NA,NA,gpio1_4
-Mux of P8_24: 1 
+Name GPIO1_1, Pin P8_24: 1 
 Options: gpmc_ad1,mmc1_dat1,NA,NA,NA,NA,NA,gpio1_1
-Mux of P8_25: 1 
+Name GPIO1_0, Pin P8_25: 1 
 Options: gpmc_ad0,mmc1_dat0,NA,NA,NA,NA,NA,gpio1_0
-Mux of P8_26: 7 
+Name GPIO1_29, Pin P8_26: 7 
 Options: gpmc_csn0,NA,NA,NA,NA,NA,NA,gpio1_29
-Mux of P8_27: 0 
+Name GPIO2_22, Pin P8_27: 0 
 Options: lcd_vsync,gpmc_a8,NA,pr1_edio_data_in2,pr1_edio_data_out2,pr1_pru1_pru_r30_8,pr1_pru1_pru_r31_8,gpio2_22
-Mux of P8_28: 0 
+Name GPIO2_24, Pin P8_28: 0 
 Options: lcd_pclk,gpmc_a10,pr1_mii0_crs,pr1_edio_data_in4,pr1_edio_data_out4,pr1_pru1_pru_r30_10,pr1_pru1_pru_r31_10,gpio2_24
-Mux of P8_29: 0 
+Name GPIO2_23, Pin P8_29: 0 
 Options: lcd_hsync,gpmc_a9,NA,pr1_edio_data_in3,pr1_edio_data_out3,pr1_pru1_pru_r30_9,pr1_pru1_pru_r31_9,gpio2_23
-Mux of P8_30: 0 
+Name GPIO2_25, Pin P8_30: 0 
 Options: lcd_ac_bias_en,gpmc_a11,pr1_mii1_crs,pr1_edio_data_in5,pr1_edio_data_out5,pr1_pru1_pru_r30_11,pr1_pru1_pru_r31_11,gpio2_25
-Mux of P8_31: 0 
+Name UART5_CTSN, Pin P8_31: 0 
 Options: lcd_data14,gpmc_a18,NA,mcasp0_axr1,NA,NA,NA,gpio0_10
-Mux of P8_32: 0 
+Name UART5_RTSN, Pin P8_32: 0 
 Options: lcd_data15,gpmc_a19,NA,mcasp0_ahclkx,mcasp0_axr3,NA,NA,gpio0_11
-Mux of P8_33: 0 
+Name UART4_RTSN, Pin P8_33: 0 
 Options: lcd_data13,gpmc_a17,NA,mcasp0_fsr,mcasp0_axr3,NA,NA,gpio0_9
-Mux of P8_34: 0 
+Name UART3_RTSN, Pin P8_34: 0 
 Options: lcd_data11,gpmc_a15,NA,mcasp0_ahclkr,mcasp0_axr2,NA,NA,gpio2_17
-Mux of P8_35: 0 
+Name UART4_CTSN, Pin P8_35: 0 
 Options: lcd_data12,gpmc_a16,NA,mcasp0_aclkr,mcasp0_axr2,NA,NA,gpio0_8
-Mux of P8_36: 0 
+Name UART3_CTSN, Pin P8_36: 0 
 Options: lcd_data10,gpmc_a14,ehrpwm1A,mcasp0_axr0,mcasp0_axr0,pr1_mii0_rxd1,uart3_ctsn,gpio2_16
-Mux of P8_37: 0 
+Name UART5_TXD, Pin P8_37: 0 
 Options: lcd_data8,gpmc_a12,NA,mcasp0_aclkx,NA,NA,uart2_ctsn,gpio2_14
-Mux of P8_38: 0 
+Name UART5_RXD, Pin P8_38: 0 
 Options: lcd_data9,gpmc_a13,NA,mcasp0_fsx,NA,NA,uart2_rtsn,gpio2_15
-Mux of P8_39: 0 
+Name GPIO2_12, Pin P8_39: 0 
 Options: lcd_data6,gpmc_a6,pr1_edio_data_in6,eqep2_index,pr1_edio_data_out6,pr1_pru1_pru_r30_6,pr1_pru1_pru_r31_6,gpio2_12
-Mux of P8_40: 0 
+Name GPIO2_13, Pin P8_40: 0 
 Options: lcd_data7,gpmc_a7,pr1_edio_data_in7,eqep2_strobe,pr1_pru1_pru_r30_7,pr1_pru_pru1_r30_7,pr1_pru1_pru_r31_7,gpio2_13
-Mux of P8_41: 0 
+Name GPIO2_10, Pin P8_41: 0 
 Options: lcd_data4,gpmc_a4,pr1_mii0_txd1,eQEP2A_in,NA,pr1_pru1_pru_r30_4,pr1_pru1_pru_r31_4,gpio2_10
-Mux of P8_42: 0 
+Name GPIO2_11, Pin P8_42: 0 
 Options: lcd_data5,gpmc_a5,pr1_mii0_txd0,eqep2b_in,NA,pr1_pru1_pru_r30_5,pr1_pru1_pru_r31_5,gpio2_11
-Mux of P8_43: 0 
+Name GPIO2_8, Pin P8_43: 0 
 Options: lcd_data2,gpmc_a2,pr1_mii0_txd3,ehrpwm2_tripzone_input,NA,pr1_pru1_pru_r30_2,pr1_pru1_pru_r31_2,gpio2_8
-Mux of P8_44: 0 
+Name GPIO2_9, Pin P8_44: 0 
 Options: lcd_data3,gpmc_a3,pr1_mii0_txd2,ehrpwm0_synco,NA,pr1_pru1_pru_r30_3,pr1_pru1_pru_r31_3,gpio2_9
-Mux of P8_45: 0 
+Name GPIO2_6, Pin P8_45: 0 
 Options: lcd_data0,gpmc_a0,pr1_mii_mt0_clk,ehrpwm2A,NA,pr1_pru1_pru_r30_0,pr1_pru1_pru_r31_0,gpio2_6
-Mux of P8_46: 0 
+Name GPIO2_7, Pin P8_46: 0 
 Options: lcd_data1,gpmc_a1,pr1_mii0_txen,ehrpwm2B,NA,pr1_pru1_pru_r30_1,pr1_pru1_pru_r31_1,gpio2_7
-Mux of P9_1: undefined 
+Name DGND, Pin P9_1: undefined 
 Options: undefined
-Mux of P9_2: undefined 
+Name DGND, Pin P9_2: undefined 
 Options: undefined
-Mux of P9_3: undefined 
+Name VDD_3V3, Pin P9_3: undefined 
 Options: undefined
-Mux of P9_4: undefined 
+Name VDD_3V3, Pin P9_4: undefined 
 Options: undefined
-Mux of P9_5: undefined 
+Name VDD_5V, Pin P9_5: undefined 
 Options: undefined
-Mux of P9_6: undefined 
+Name VDD_5V, Pin P9_6: undefined 
 Options: undefined
-Mux of P9_7: undefined 
+Name SYS_5V, Pin P9_7: undefined 
 Options: undefined
-Mux of P9_8: undefined 
+Name SYS_5V, Pin P9_8: undefined 
 Options: undefined
-Mux of P9_9: undefined 
+Name PWR_BUT, Pin P9_9: undefined 
 Options: undefined
-Mux of P9_10: undefined 
+Name SYS_RESETn, Pin P9_10: undefined 
 Options: undefined
-Mux of P9_11: 7 
+Name UART4_RXD, Pin P9_11: 7 
 Options: gpmc_wait0,mii2_crs,NA,rmii2_crs_dv,mmc1_sdcd,NA,NA,gpio0_30
-Mux of P9_12: 7 
+Name GPIO1_28, Pin P9_12: 7 
 Options: gpmc_ben1,mii2_col,NA,mmc2_dat3,NA,NA,mcasp0_aclkr,gpio1_28
-Mux of P9_13: 7 
+Name UART4_TXD, Pin P9_13: 7 
 Options: gpmc_wpn,mii2_rxerr,NA,rmii2_rxerr,mmc2_sdcd,NA,NA,gpio0_31
-Mux of P9_14: 7 
+Name EHRPWM1A, Pin P9_14: 7 
 Options: gpmc_a2,gmii2_txd3,rgmii2_td3,mmc2_dat1,gpmc_a18,pr1_mii1_txd2,ehrpwm1A,gpio1_18
-Mux of P9_15: 7 
+Name GPIO1_16, Pin P9_15: 7 
 Options: gpmc_a0,gmii2_txen,rgmii2_tctl,rmii2_txen,gpmc_a16,pr1_mii_mt1_clk,ehrpwm1_tripzone_input,gpio1_16
-Mux of P9_16: 7 
+Name EHRPWM1B, Pin P9_16: 7 
 Options: gpmc_a3,gmii2_txd2,rgmii2_td2,mmc2_dat2,gpmc_a19,pr1_mii1_txd1,ehrpwm1B,gpio1_19
-Mux of P9_17: 2 
+Name I2C1_SCL, Pin P9_17: 2 
 Options: spi0_cs0,mmc2_sdwp,i2c1_scl,NA,NA,NA,NA,gpio0_5
-Mux of P9_18: 2 
+Name I2C1_SDA, Pin P9_18: 2 
 Options: spi0_d1,mmc1_sdwp,i2c1_sda,NA,NA,NA,NA,gpio0_4
-Mux of P9_19: 3 
+Name I2C2_SCL, Pin P9_19: 3 
 Options: uart1_rtsn,NA,d_can0_rx,i2c2_scl,spi1_cs1,NA,NA,gpio0_13
-Mux of P9_20: 3 
+Name I2C2_SDA, Pin P9_20: 3 
 Options: uart1_ctsn,NA,d_can0_tx,i2c2_sda,spi1_cs0,NA,NA,gpio0_12
-Mux of P9_21: 7 
+Name UART2_TXD, Pin P9_21: 7 
 Options: spi0_d0,uart2_txd,i2c2_scl,NA,NA,NA,NA,gpio0_3
-Mux of P9_22: 7 
+Name UART2_RXD, Pin P9_22: 7 
 Options: spi0_sclk,uart2_rxd,i2c2_sda,NA,NA,NA,NA,gpio0_2
-Mux of P9_23: 7 
+Name GPIO1_17, Pin P9_23: 7 
 Options: gpmc_a1,gmii2_rxdv,rgmii2_rctl,mmc2_dat0,gpmc_a17,pr1_mii1_txd3,ehrpwm0_synco,gpio1_17
-Mux of P9_24: 7 
+Name UART1_TXD, Pin P9_24: 7 
 Options: uart1_txd,mmc2_sdwp,d_can1_rx,i2c1_scl,NA,pr1_uart0_txd_mux1,NA,gpio0_15
-Mux of P9_25: 0 
+Name GPIO3_21, Pin P9_25: 0 
 Options: mcasp0_ahclkx,NA,mcasp0_axr3,mcasp1_axr1,NA,NA,NA,gpio3_21
-Mux of P9_26: 7 
+Name UART1_RXD, Pin P9_26: 7 
 Options: uart1_rxd,mmc1_sdwp,d_can1_tx,i2c1_sda,NA,pr1_uart0_rxd_mux1,NA,gpio0_14
-Mux of P9_27: 7 
+Name GPIO3_19, Pin P9_27: 7 
 Options: mcasp0_fsr,NA,mcasp0_axr3,mcasp1_fsx,NA,pr1_pru0_pru_r30_5,NA,gpio3_19
-Mux of P9_28: 2 
+Name SPI1_CS0, Pin P9_28: 2 
 Options: mcasp0_ahclkr,NA,mcasp0_axr2,spi1_cs0,eCAP2_in_PWM2_out,NA,NA,gpio3_17
-Mux of P9_29: 0 
+Name SPI1_D0, Pin P9_29: 0 
 Options: mcasp0_fsx,ehrpwm0B,NA,spi1_d0,mmc1_sdcd,NA,NA,gpio3_15
-Mux of P9_30: 7 
+Name SPI1_D1, Pin P9_30: 7 
 Options: mcasp0_axr0,NA,NA,spi1_d1,mmc2_sdcd,NA,NA,gpio3_16
-Mux of P9_31: 0 
+Name SPI1_SCLK, Pin P9_31: 0 
 Options: mcasp0_aclkx,ehrpwm0A,NA,spi1_sclk,mmc0_sdcd,NA,NA,gpio3_14
-Mux of P9_32: undefined 
+Name VDD_ADC, Pin P9_32: undefined 
 Options: undefined
-Mux of P9_33: undefined 
+Name AIN4, Pin P9_33: undefined 
 Options: undefined
-Mux of P9_34: undefined 
+Name GNDA_ADC, Pin P9_34: undefined 
 Options: undefined
-Mux of P9_35: undefined 
+Name AIN6, Pin P9_35: undefined 
 Options: undefined
-Mux of P9_36: undefined 
+Name AIN5, Pin P9_36: undefined 
 Options: undefined
-Mux of P9_37: undefined 
+Name AIN2, Pin P9_37: undefined 
 Options: undefined
-Mux of P9_38: undefined 
+Name AIN3, Pin P9_38: undefined 
 Options: undefined
-Mux of P9_39: undefined 
+Name AIN0, Pin P9_39: undefined 
 Options: undefined
-Mux of P9_40: undefined 
+Name AIN1, Pin P9_40: undefined 
 Options: undefined
-Mux of P9_41: 7 
+Name CLKOUT2, Pin P9_41: 7 
 Options: xdma_event_intr1,NA,NA,clkout2,NA,NA,NA,gpio0_20
-Mux of P9_42: 7 
+Name GPIO0_7, Pin P9_42: 7 
 Options: eCAP0_in_PWM0_out,uart3_txd,spi1_cs1,pr1_ecap0_ecap_capin_apwm_o,spi1_sclk,mmc0_sdwp,xdma_event_intr2,gpio0_7
-Mux of P9_43: undefined 
+Name DGND, Pin P9_43: undefined 
 Options: undefined
-Mux of P9_44: undefined 
+Name DGND, Pin P9_44: undefined 
 Options: undefined
-Mux of P9_45: undefined 
+Name DGND, Pin P9_45: undefined 
 Options: undefined
-Mux of P9_46: undefined 
+Name DGND, Pin P9_46: undefined 
 Options: undefined
