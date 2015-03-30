@@ -1,6 +1,6 @@
 var b = require('bonescript');
 var fs = require('fs');
-var bit1 = "P8_9";
+var bit1 = "P8_9";                                  //Spindle hours
 var file1 = 'timerfile.inx';
 
 var storeFreq_secs = 15;
@@ -11,7 +11,6 @@ b.pinMode(bit1,b.INPUT,7);
 setInterval(count,1000);    
 
 function count(){
-    console.log('here1');
     if(b.digitalRead(bit1)==b.HIGH) {
         counter++
         console.log(" :"+counter);
@@ -21,6 +20,7 @@ function count(){
             if (err) throw err;
         });
 }
+
 
 
 
