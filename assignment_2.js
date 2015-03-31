@@ -24,6 +24,7 @@ client = net.connect(PORT, HOST,function(){
     
 client.on('data',function(data){
     console.log('Data'+data);
+    //client.end();
 });
 
 client.on('end',function(end){
@@ -33,15 +34,15 @@ client.on('end',function(end){
 function count(){
     if(b.digitalRead(bit1)==b.HIGH) {
         counter++
-        console.log('Counter : '+counter);
+        //console.log('Counter : '+counter);
     }
     if(counter%storeFreq_secs == 0)
         fs.writeFile(file1,counter,function(err){
             if (err) throw err;
         });
+    //console.log('Counter'+counter)
     var obj = JSON.stringify(counter);
-    client.write(obj);
-    client.pipe(client);
+    client.write(obj+'\n');
 }
 
 
